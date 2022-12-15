@@ -2,8 +2,9 @@
   * Latihan pernafasan
 - Latihan otot kaki
   * Memperkuat footwork
+    ^ Memperkuat tendangan
+    ^ Menambah kecepatan saat lari
   * Menambah keseimbangan tubuh
 - Teknik dasar main bola
-  * Passing
   * Control
   * Shooting
