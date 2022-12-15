@@ -8,3 +8,4 @@
 - Teknik dasar main bola
   * Control
   * Shooting
+- Latihan otot badan dan tangan
